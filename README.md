@@ -12,7 +12,7 @@
 
 ### 🏆 Stats:
 <p>&nbsp;
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=en" alt="yeiserdeveloper" />
 </p>
 
