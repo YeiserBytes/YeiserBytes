@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi there 👋, nice to meet you.</h1>
+<h1 align="center">Hi there 👋, nice to meet you.</h1>
 
 - 🔭 I’m currently working on [**Movies_API**](https://github.com/YeiserDeveloper/Movies_API)
 - 🌱 I’m currently learning [Astro](https://astro.build/)
@@ -12,7 +12,7 @@
 
 ### 🏆 Stats:
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=es&layout=compact" alt="yeiserdeveloper" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=es" alt="yeiserdeveloper" />
 </p>
 
