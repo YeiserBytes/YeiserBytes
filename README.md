@@ -12,7 +12,7 @@
 
 ### 💻 Most Used Languages:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" /></p>
 
 ### 🏆 Stats:
 <p>&nbsp;
