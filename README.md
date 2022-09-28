@@ -15,7 +15,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" /></p>
 
 ### 🏆 Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=en" alt="yeiserdeveloper" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=en" alt="yeiserdeveloper" />
+</p>
 
 <!--
 **YeiserDeveloper/YeiserDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
