@@ -12,7 +12,7 @@
 
 ### 🧰 Support:
 <p>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" width="420" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=en" alt="yeiserdeveloper" width="420"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" width="350" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=en" alt="yeiserdeveloper" width="420"/>
 </p>
 
 <!--
