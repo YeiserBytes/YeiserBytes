@@ -1,4 +1,4 @@
-<p style="text-aling: center;">Hi there 👋, nice to meet you.</p>
+<h1 style="text-align: center;">Hi there 👋, nice to meet you.</h1>
 
 - 🔭 I’m currently working on [**Movies_API**](https://github.com/YeiserDeveloper/Movies_API)
 - 🌱 I’m currently learning [Astro](https://astro.build/)
