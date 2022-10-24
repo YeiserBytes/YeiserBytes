@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, nice to meet you.</h1>
 
 - 🔭 I’m currently working on [**Movies_API**](https://github.com/YeiserDeveloper/Movies_API)
-- 🌱 I’m currently learning [Astro](https://astro.build/)
-- 🤔 I’m looking for help with [TypeScript](https://www.typescriptlang.org/)
+- 🌱 I’m currently learning [**Astro**](https://astro.build/)
+- 🤔 I’m looking for help with [**TypeScript**](https://www.typescriptlang.org/)
 
 😊 I am a junior developer specifically into Front-end development. Currently, I am in college as a Software Engineering student. Even so, I like programming and before entering university I learned the basics of Web development.
 
