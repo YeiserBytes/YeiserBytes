@@ -1,7 +1,4 @@
-
-<video width="100%" autoplay muted>
-    <source src="./banner.mp4" type="video/mp4">
-</video>
+<img src="./banner.png" width="100%">
 
 <h2 align="center">👋 About me 👋</h2>
 
