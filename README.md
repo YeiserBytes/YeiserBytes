@@ -1,18 +1,65 @@
-<h1 align="center">Hi there 👋, nice to meet you.</h1>
 
-- 🔭 I’m currently working on [**Movies_API**](https://github.com/YeiserDeveloper/Movies_API)
-- 🌱 I’m currently learning [**Astro**](https://astro.build/)
-- 🤔 I’m looking for help with [**TypeScript**](https://www.typescriptlang.org/)
+<video width="100%" autoplay muted>
+    <source src="./banner.mp4" type="video/mp4">
+</video>
 
-😊 I am a junior developer specifically into Front-end development. Currently, I am in college as a Software Engineering student. Even so, I like programming and before entering university I learned the basics of Web development.
+<h2 align="center">👋 About me 👋</h2>
 
-### 👨‍💻 Languages and Tools:
+<p align="center">
+<a href="mailto: yeiser192@gmail.com">
+ <img src="https://img.shields.io/badge/-yeiser192-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/yeiser-j-b84471238/">
+ <img src="https://img.shields.io/badge/-Yeiser J-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeiser-j-b84471238/">
+</a>
+ <a href="https://www.instagram.com/yei_dev/">
+ <img src="https://img.shields.io/badge/-Yei_Dev-6c00d1?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yei_dev/"/>
+</a>
+</p>
 
-<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="color: #ffffff"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></p>
+- 🔭 I'm currently working on personal projects.
+- 🌱 I’m currently learning [React](https://es.reactjs.org/).
+- 👯 I'm looking to create a Rest API.
+- 🤔 I want to learn more English.
+- ⚡ Fun fact: I really enjoy reading books, so if you have any recommendations, I'd love to hear them.
 
-### 🧰 Support:
-<p>&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeiserdeveloper&show_icons=true&locale=en&layout=compact" alt="yeiserdeveloper" width="350" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&locale=en" alt="yeiserdeveloper" width="420"/>
+<p align="justify">
+I'm a junior front-end developer and software engineering student in college. My passion for programming started before university when I taught myself the basics of web development. Currently, I'm focusing on front-end development, and I'm excited to work with frameworks and libraries such as React, Astro, Vue.js, Bootstrap, and Sass, among others, to create engaging and interactive user experiences. I'm eager to learn and improve my skills, and I'm always looking for opportunities to work on new projects and collaborate with other developers.
+</p>
+
+<h2 align="center">
+    👨‍💻 Languages and Tools 👨‍💻
+</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-TypeScript-00509B?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/-React-21222a?style=flat-square&logo=React"/>
+<img src="https://img.shields.io/badge/Vite-ffd000?style=flat-square&logo=vite"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Tailwindcss-0d0d21?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/-Vuejs-0d0d21?style=flat-square&logo=v"/>
+<img src="https://img.shields.io/badge/-Bulma-fff?style=flat-square&logo=bulma"/>
+<img src="https://img.shields.io/badge/-SASS-000?style=flat-square&logo=sass"/>
+<img src="https://img.shields.io/badge/-Pug-fff?style=flat-square&logo=pug"/>
+<img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno"/>
+<img src="https://img.shields.io/badge/-Python3-2f548a?style=flat-square&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=linux"/>
+</p>
+
+<h2 align="center">
+    🧰 Support 🧰
+</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true"/>
 </p>
 
 <!--
