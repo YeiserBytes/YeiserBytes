@@ -3,6 +3,11 @@
 <h2 align="center">👋 About me 👋</h2>
 
 <p align="center">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=YeiserDeveloper.YeiserDeveloper" />
+ <img src="https://img.shields.io/github/followers/YeiserDeveloper?label=Follow&style=social" />
+</p>
+
+<p align="center">
 <a href="mailto: yeiser192@gmail.com">
  <img src="https://img.shields.io/badge/-yeiser192-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
@@ -56,10 +61,11 @@ I'm a junior front-end developer and software engineering student in college. My
 </h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeiserDeveloper&theme=react" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeiserdeveloper&bg_color=0f0f0f&color=d1d1d1&line=009dd1&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeiserdeveloper&bg_color=1c1c1c&color=00eeff&line=0099cc&point=00e1ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **YeiserDeveloper/YeiserDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
