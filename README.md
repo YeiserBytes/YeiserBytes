@@ -59,6 +59,8 @@ I'm a junior front-end developer and software engineering student in college. My
 <img src="https://github-readme-stats.vercel.app/api?username=yeiserdeveloper&show_icons=true"/>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeiserdeveloper&bg_color=0f0f0f&color=d1d1d1&line=009dd1&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **YeiserDeveloper/YeiserDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
