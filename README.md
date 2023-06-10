@@ -65,7 +65,7 @@ I'm a junior front-end developer and software engineering student in college. My
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeiserDeveloper&theme=react" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeiserdeveloper&bg_color=1c1c1c&color=00eeff&line=0099cc&point=00e1ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YeiserDeveloper&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **YeiserDeveloper/YeiserDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
