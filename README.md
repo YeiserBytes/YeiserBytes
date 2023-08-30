@@ -25,12 +25,10 @@
 - 🤔 I want to learn more English.
 - ⚡ Fun fact: I really enjoy reading books, so if you have any recommendations, I'd love to hear them.
 
-<p align="justify">
 I'm a junior front-end developer and software engineering student in college. My passion for programming started before university when I taught myself the basics of web development. Currently, I'm focusing on front-end development, and I'm excited to work with frameworks and libraries such as React, Astro, Vue.js, Bootstrap, and Sass, among others, to create engaging and interactive user experiences. I'm eager to learn and improve my skills, and I'm always looking for opportunities to work on new projects and collaborate with other developers.
-</p>
 
 <h2 align="center">
-    👨‍💻 Languages and Tools 👨‍💻
+    👨‍💻 Languages and skills 👨‍💻
 </h2>
 
 <p align="center">
@@ -55,17 +53,6 @@ I'm a junior front-end developer and software engineering student in college. My
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=linux"/>
 </p>
-
-<h2 align="center">
-    🧰 Support 🧰
-</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CubeMyst&show_icons=true&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CubeMyst&theme=react" />
-</p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CubeMyst&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **YeiserDeveloper/YeiserDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
