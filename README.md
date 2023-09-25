@@ -5,18 +5,6 @@
  <img src="https://img.shields.io/github/followers/CubeMyst?label=Follow&style=social" />
 </p>
 
-<p align="center">
-<a href="mailto: cubemyst@proton.me">
- <img src="https://img.shields.io/badge/-yeiser192-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/yeiser-j-b84471238/">
- <img src="https://img.shields.io/badge/-Yeiser J-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeiser-j-b84471238/">
-</a>
- <a href="https://www.instagram.com/yei_dev/">
- <img src="https://img.shields.io/badge/-Yei_Dev-6c00d1?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yei_dev/"/>
-</a>
-</p>
-
 - 🔭 I'm currently working on personal projects.
 - 🌱 I’m currently learning [React](https://es.reactjs.org/).
 - 👯 I'm looking to create a Rest API.
