@@ -1,7 +1,5 @@
 <img src="./banner.gif" width="100%">
 
-<h2 align="center">👋 About me 👋</h2>
-
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=CubeMyst.CubeMyst" />
  <img src="https://img.shields.io/github/followers/CubeMyst?label=Follow&style=social" />
