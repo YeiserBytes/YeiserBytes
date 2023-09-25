@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="mailto: yeiser192@gmail.com">
+<a href="mailto: cubemyst@proton.me">
  <img src="https://img.shields.io/badge/-yeiser192-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/yeiser-j-b84471238/">
@@ -28,7 +28,7 @@
 I'm a junior front-end developer and software engineering student in college. My passion for programming started before university when I taught myself the basics of web development. Currently, I'm focusing on front-end development, and I'm excited to work with frameworks and libraries such as React, Astro, Vue.js, Bootstrap, and Sass, among others, to create engaging and interactive user experiences. I'm eager to learn and improve my skills, and I'm always looking for opportunities to work on new projects and collaborate with other developers.
 
 <h2 align="center">
-    👨‍💻 Languages and skills 👨‍💻
+    💻 Tech stack
 </h2>
 
 <p align="center">
