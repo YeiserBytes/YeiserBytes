@@ -40,6 +40,8 @@ I'm a junior front-end developer and software engineering student in college. My
 <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=linux"/>
 </p>
 
+
+![](https://api.githubtrends.io/user/svg/CubeMyst/repos?time_range=one_year&theme=dark)
 <!--
 **YeiserDeveloper/YeiserDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
