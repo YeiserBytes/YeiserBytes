@@ -29,7 +29,6 @@ I'm a junior front-end developer and software engineering student in college. My
 <img src="https://img.shields.io/badge/-Vuejs-0d0d21?style=flat-square&logo=v"/>
 <img src="https://img.shields.io/badge/-Bulma-fff?style=flat-square&logo=bulma"/>
 <img src="https://img.shields.io/badge/-SASS-000?style=flat-square&logo=sass"/>
-<img src="https://img.shields.io/badge/-Pug-fff?style=flat-square&logo=pug"/>
 <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel"/>
 <img src="https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno"/>
 <img src="https://img.shields.io/badge/-Python3-2f548a?style=flat-square&logo=python&logoColor=yellow"/>
