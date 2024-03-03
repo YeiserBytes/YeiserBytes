@@ -2,7 +2,7 @@
 
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=yeiserbytes.yeiserbytes" />
- <img src="https://img.shields.io/github/followers/CubeMyst?label=Follow&style=social" />
+ <img src="https://img.shields.io/github/followers/yeiserbytes?label=Follow&style=social" />
 </p>
 
 - 🔭 I'm currently working on personal projects.
