@@ -16,9 +16,7 @@ My passion for programming started before university when I taught myself the ba
 * 🌍  I'm based in Dominican Republic
 
 <a href="https://www.github.com/yeiserbytes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yeiserbytes?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/YeiserJimnez2" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/YeiserJimnez2?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/yeiserbytes?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
 
