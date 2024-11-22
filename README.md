@@ -8,7 +8,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeiser
 ==============================================================================================================================
 
-Junior front-end developer and Designer
+Junior Full-Stack developer and Designer
 ---------------------------------------
 
 My passion for programming started before university when I taught myself the basics of web development. Currently, I'm focusing on front-end development, and I'm excited to work with frameworks and libraries such as React, Astro, Vue.js, Bootstrap, and Sass, among others, to create engaging and interactive user experiences. I'm eager to learn and improve my skills, and I'm always looking for opportunities to work on new projects and collaborate with other developers.
